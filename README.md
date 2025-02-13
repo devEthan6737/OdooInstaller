@@ -28,6 +28,19 @@ Este repositorio contiene un script Bash que automatiza la instalación de **Odo
 ### 1. Clonar el repositorio
 ```bash
 git clone https://github.com/devEthan6737/OdooInstaller.git
+```
+
+### 2. Acceder a la carpeta OdooInstaller
+```bash
 cd OdooInstaller
+```
+
+### 3. Conceder permisos de ejecución
+```bash
 chmod +x ./installer.sh
+```
+
+### 4. Ejecutar el script
+```bash
 sudo ./installer.sh
+```
